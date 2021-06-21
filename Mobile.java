@@ -20,4 +20,9 @@ public class Mobile {
         }
         System.out.print("最低的价格是："+min);
     }
+
+
+
+
+
 }
